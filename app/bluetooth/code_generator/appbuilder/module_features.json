@@ -1,0 +1,327 @@
+{
+  "modules": {
+    "BGM111A256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B232F256GM48"
+    }, 
+    "BGM111E256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B232F256GM48"
+    }, 
+    "BGM113A256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B132F256GM32"
+    }, 
+    "BGM11S12F256GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B132F256GM56"
+    }, 
+    "BGM11S22F256GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B232F256GM56"
+    }, 
+    "BGM121A256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B232F256GM56"
+    }, 
+    "BGM121N256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B232F256GM56"
+    }, 
+    "BGM123A256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B132F256GM56"
+    }, 
+    "BGM123N256V2": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG1B132F256GM56"
+    }, 
+    "BGM13P22F512GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG13P632F512GM48"
+    }, 
+    "BGM13P22F512GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG13P632F512GM48"
+    }, 
+    "BGM13P32F512GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG13P732F512GM48"
+    }, 
+    "BGM13P32F512GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32BG13P732F512GM48"
+    }, 
+    "BGM13S22F512GA": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32BG13P632F512GM51"
+    }, 
+    "BGM13S22F512GN": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32BG13P632F512GM51"
+    }, 
+    "BGM13S32F512GA": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32BG13P732F512GM51"
+    }, 
+    "BGM13S32F512GN": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32BG13P732F512GM51"
+    }, 
+    "BGM210LA22JIF": {
+      "Features": [], 
+      "Part": "EFR32BG21A020F1024IM32"
+    }, 
+    "BGM210LA22JNF": {
+      "Features": [], 
+      "Part": "EFR32BG21A020F1024IM32"
+    }, 
+    "BGM210P022JIA": {
+      "Features": [], 
+      "Part": "EFR32BG21A010F1024IM32"
+    }, 
+    "BGM210P022JNA": {
+      "Features": [], 
+      "Part": "EFR32BG21A010F1024IM32"
+    }, 
+    "BGM210P032JIA": {
+      "Features": [], 
+      "Part": "EFR32BG21A020F1024IM32"
+    }, 
+    "BGM210P032JNA": {
+      "Features": [], 
+      "Part": "EFR32BG21A020F1024IM32"
+    }, 
+    "BGM210PA22JIA": {
+      "Features": [], 
+      "Part": "EFR32BG21A010F1024IM32"
+    }, 
+    "BGM210PA22JNA": {
+      "Features": [], 
+      "Part": "EFR32BG21B010F1024IM32"
+    }, 
+    "BGM210PA32JIA": {
+      "Features": [], 
+      "Part": "EFR32BG21A020F1024IM32"
+    }, 
+    "BGM210PA32JNA": {
+      "Features": [], 
+      "Part": "EFR32BG21B020F1024IM32"
+    }, 
+    "BGM220PC22HNA": {
+      "Features": [
+        "LFXO"
+      ], 
+      "Part": "EFR32BG22C224F512IM40"
+    }, 
+    "BGM220PC22WGA": {
+      "Features": [], 
+      "Part": "EFR32BG22C222F352GM40"
+    }, 
+    "BGM220SC12WGA": {
+      "Features": [], 
+      "Part": "EFR32BG22C112F352GM40"
+    }, 
+    "BGM220SC22HNA": {
+      "Features": [], 
+      "Part": "EFR32BG22C224F512IM40"
+    }, 
+    "BGM220SC22WGA": {
+      "Features": [], 
+      "Part": "EFR32BG22C222F352GM40"
+    }, 
+    "MGM12P02F1024GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32MG12P332F1024GM48"
+    }, 
+    "MGM12P02F1024GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32MG12P332F1024GM48"
+    }, 
+    "MGM12P22F1024GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO", 
+        "FEM"
+      ], 
+      "Part": "EFR32MG12P332F1024GM48"
+    }, 
+    "MGM12P22F1024GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO", 
+        "FEM"
+      ], 
+      "Part": "EFR32MG12P332F1024GM48"
+    }, 
+    "MGM12P32F1024GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO", 
+        "FEM"
+      ], 
+      "Part": "EFR32MG12P432F1024GM48"
+    }, 
+    "MGM12P32F1024GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO", 
+        "FEM"
+      ], 
+      "Part": "EFR32MG12P432F1024GM48"
+    }, 
+    "MGM13P02F512GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32MG13P632F512GM48"
+    }, 
+    "MGM13P02F512GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32MG13P632F512GM48"
+    }, 
+    "MGM13P12F512GA": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32MG13P732F512GM48"
+    }, 
+    "MGM13P12F512GE": {
+      "Features": [
+        "LEGACY_HAL", 
+        "LFXO"
+      ], 
+      "Part": "EFR32MG13P732F512GM48"
+    }, 
+    "MGM13S02F512GA": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32MG13P632F512GM51"
+    }, 
+    "MGM13S02F512GN": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32MG13P632F512GM51"
+    }, 
+    "MGM13S12F512GA": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32MG13P732F512GM51"
+    }, 
+    "MGM13S12F512GN": {
+      "Features": [
+        "LEGACY_HAL"
+      ], 
+      "Part": "EFR32MG13P732F512GM51"
+    }, 
+    "MGM210L022JIF": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210L022JNF": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210LA22JIF": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210LA22JNF": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210P022JIA": {
+      "Features": [], 
+      "Part": "EFR32MG21A010F1024IM32"
+    }, 
+    "MGM210P022JNA": {
+      "Features": [], 
+      "Part": "EFR32MG21A010F1024IM32"
+    }, 
+    "MGM210P032JIA": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210P032JNA": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210PA22JIA": {
+      "Features": [], 
+      "Part": "EFR32MG21A010F1024IM32"
+    }, 
+    "MGM210PA22JNA": {
+      "Features": [], 
+      "Part": "EFR32MG21B010F1024IM32"
+    }, 
+    "MGM210PA32JIA": {
+      "Features": [], 
+      "Part": "EFR32MG21A020F1024IM32"
+    }, 
+    "MGM210PA32JNA": {
+      "Features": [], 
+      "Part": "EFR32MG21B020F1024IM32"
+    }
+  }
+}

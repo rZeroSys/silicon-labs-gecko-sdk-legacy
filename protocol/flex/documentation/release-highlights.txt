@@ -1,0 +1,54 @@
+What's new in Flex 2.7.10.0
+  * RAIL Library
+    * Additional quality improvements 
+
+What's new in Flex 2.7.9.0
+  * RAIL Library
+    * Additional quality improvements 
+
+What's new in Flex 2.7.8.0
+  * RAIL Library
+    * Additional quality improvements 
+
+What's new in Flex 2.7.7.0
+  * RAIL Library
+    * Additional quality improvements
+
+What's new in Flex 2.7.6.0
+  * RAIL Library
+    * Additional quality improvements
+
+What's new in Flex 2.7.5.0
+  * Connect Apps and Stack
+    *Additional quality improvements
+
+What's new in Flex 2.7.4.0
+  * RAIL Library
+    * Additional quality improvements
+
+What's new in Flex 2.7.3.0
+  * Connect Apps and Stack
+    * mbed TLS now mandatory for all crypto-related operations
+      
+  * RAIL Library
+    * Support for new EFR32xG22
+
+What's new in Flex 2.7.2.0
+  * RAIL Library
+    * Additional quality improvements
+
+What's new in Flex 2.7.1.0
+  * CONNECT Apps and Stack
+    * New and updated APIs
+
+  * RAIL Library
+    * Added new features and functions
+    * Additional quality improvements
+
+What's new in Flex 2.7.0.0:
+  * CONNECT Apps and Stack
+    * New and updated APIs
+
+  * RAIL Library
+    * Added support for a mode to select the best PA for a given power level
+    * Added support for new IEEE 802.15.4G-2012 features

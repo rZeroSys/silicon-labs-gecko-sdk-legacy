@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentItems>
+  <contentItemData category="Quick Start Guides" itemURI="qsg155-dynamic-multiprotocol-demo-quick-start-guide.pdf" label="QSG155: Using the Silicon Labs Dynamic Multiprotocol Demonstrations in GSDK v2.x">
+    <description>Shows how to demonstrate Dynamic Multiprotocol functionality using a Bluetooth LE smartphone app with either Zigbee-Bluetooth or RAIL-Bluetooth demo applications.</description>
+  </contentItemData>
+  <contentItemData category="Application Notes" itemURI="an1042-bt-ncp-mode.pdf" label="AN1042: Using the v2.x Silicon Labs Bluetooth Stack in Network Co-Processor Mode">
+    <description>Covers tool use, C language application development flow, and customizing the examples included in the stack.</description>
+  </contentItemData>
+  <contentItemData category="API References" itemURI="bluetooth-api-reference.pdf" label="Bluetooth Software API Reference Manual">
+    <description>Describes commands, events, enumerations and error codes in the Bluetooth stack and SDK.</description>
+  </contentItemData>
+  <contentItemData category="Application Notes" itemURI="an1046-bt-dtm.pdf" label="AN1046: Bluetooth Radio Frequency Physical Layer Evaluation in Bluetooth SDK v2.x">
+    <description>Reviews performing radio frequency physical layer evaluation with EFR32BG SoCs and BGM modules using the Direct Test Mode protocol.</description>
+  </contentItemData>
+  <contentItemData category="Application Notes" itemURI="an1246-efr32bg-bluetooth-power-consumption.pdf" label="AN1246: EFR32BG SoC Bluetooth Smart Device Power Consumption Measurements">
+    <description>Describes how to measure the power consumption of EFR32BG devices running the Bluetooth i-Beacon example. For general instructions, see AN969: Measuring Power Consumption in Wireless Gecko Devices, available on silabs.com.</description>
+  </contentItemData>
+</contentItems>

@@ -1,0 +1,39 @@
+  What's new in Bluetooth SDK 2.13.10.0 in Gecko SDK Suite 2.7.10.0
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.9.0 in Gecko SDK Suite 2.7.9.0
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.8.0 in Gecko SDK Suite 2.7.8.0
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.7.0 in Gecko SDK Suite 2.7.7.0
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.6.0 in Gecko SDK Suite 2.7.6.0
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.5.0 in Gecko SDK Suite 2.7.5.0
+  * Underlying Gecko Platform code changes only
+
+  What's new in Bluetooth SDK 2.13.4.0 in Gecko SDK Suite 2.7.4.0
+  * Bluetooth 5.2 compliance
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.3.0 in Gecko SDK Suite 2.7.3.0
+  * New part support - EFR32[B|M]G22 and Thunderboard EFR32BG22
+  * Bluetooth 5.2 compliance (official verification in process)
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.2.0 in Gecko SDK Suite 2.7.2.0
+  * Set advertiser random address
+  * Selected quality improvements and bug fixes
+
+  What's new in Bluetooth SDK 2.13.1.0 in Gecko SDK Suite 2.7.1.0
+  * Selected quality improvements and bug fixes
+  
+  What's new in Bluetooth SDK 2.13.0.0 in Gecko SDK Suite 2.7.0.0
+  * Adds directional priority PTA support for Wi-Fi Coex
+  * Updates to the Bluetooth Mobile app
+  * NVM3 support on EFR32[B|M]G1x devices
+
